@@ -1,3 +1,5 @@
 export const defaultTheme = {
-    primary: 'Green'
+    primary: 'green',
+    white: '#fff',
+    secondary: 'yellow'
 }
